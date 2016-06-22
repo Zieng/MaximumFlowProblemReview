@@ -1,6 +1,8 @@
-# ./genTest > testfile
+./genTest > testfile
 
 ./pr < testfile
-./mf < testfile
+# ./mf < testfile
+./bf < testfile
+./ek < testfile
 
-# rm testfile
+rm testfile
